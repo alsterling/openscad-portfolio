@@ -1,0 +1,6 @@
+_verify/
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+.openscad_backup/
